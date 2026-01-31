@@ -1,4 +1,4 @@
-# Portfólio - Análise de Dados 📊
+# Portfólio - 📊
 
 Olá, Sou a Ana Carolina Itacarambi!
 
