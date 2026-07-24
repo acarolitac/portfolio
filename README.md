@@ -1,10 +1,12 @@
 # 💼 Portfólio | Ana Carolina Itacarambi
 
-Meu portfólio pessoal desenvolvido para apresentar minha trajetória profissional, projetos de análise de dados e habilidades.
+Meu portfólio pessoal desenvolvido para apresentar minha trajetória profissional, habilidades e projetos de análise de dados.
 
 ## 🔗 Acesse o portfólio
 
-https://acarolitac.github.io/portfolio/
+  <a href="https://acarolitac.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🔗_Acessar_Portfólio-557AE2?style=for-the-badge" />
+  </a>
 
 ## ✨ O que você encontrará
 
