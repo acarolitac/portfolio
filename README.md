@@ -1,10 +1,10 @@
-# 💼 Portfólio - Análise de Dados | Ana Carolina Itacarambi
+# 💼 Portfólio | Ana Carolina Itacarambi
 
-Meu portfólio pessoal desenvolvido para apresentar minha trajetória profissional, projetos e habilidades.
+Meu portfólio pessoal desenvolvido para apresentar minha trajetória profissional, projetos de análise de dados e habilidades.
 
 ## 🔗 Acesse o portfólio
 
-🩷 https://acarolitac.github.io/portfolio/
+https://acarolitac.github.io/portfolio/
 
 ## ✨ O que você encontrará
 
@@ -19,8 +19,8 @@ Meu portfólio pessoal desenvolvido para apresentar minha trajetória profission
 
 ## 🛠 Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 📂 Projetos em destaque
@@ -42,4 +42,4 @@ Meu portfólio pessoal desenvolvido para apresentar minha trajetória profission
 
 ---
 
-Desenvolvido por Ana Carolina Itacarambi.
+Desenvolvido por Ana Carolina Itacarambi. 🩷
