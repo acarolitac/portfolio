@@ -81,32 +81,6 @@ if (heroTitle) {
         setTimeout(typeFirstName, 1000);
     }
 } 
-        // ===== Toggle de tema claro/escuro =====
-const themeToggle = document.querySelector('.theme-toggle');
-
-if (themeToggle) {
-    // Lê tema salvo no localStorage
-    const savedTheme = localStorage.getItem('theme');
-
-    // Se não houver tema salvo, define "dark" como padrão
-    if (savedTheme === 'light') {
-        document.body.classList.add('light-mode');
-    } else {
-        document.body.classList.remove('light-mode'); // força dark
-        localStorage.setItem('theme', 'dark');       // garante persistência
-    }
-
-    // Alterna tema ao clicar no botão
-    themeToggle.addEventListener('click', () => {
-        document.body.classList.toggle('light-mode');
-
-        if (document.body.classList.contains('light-mode')) {
-            localStorage.setItem('theme', 'light');
-        } else {
-            localStorage.setItem('theme', 'dark');
-        }
-    });
-}
     // ===== Animações on scroll =====
     function initScrollAnimations() {
         const animatedElements = document.querySelectorAll('.animate-on-scroll');
